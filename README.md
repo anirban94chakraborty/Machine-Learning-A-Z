@@ -1,2 +1,4 @@
 # Machine-Learning-A-Z
-Practice Code in Jupyter Notebooks for the Course
+Jupyter Notebooks containing Practice Code (Python) for the course __Machine Learning A-Z™: Hands-On Python & R In Data Science__
+
+Course Link: https://www.udemy.com/course/machinelearning/
